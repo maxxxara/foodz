@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Jajangmyeon",
+            "reviews": 214,
+            "price": "21.99",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Sugar", "Gochujang", "Rice win vingear", "Soy Sauce", "Garlic", "Ginger", "Butter"
+            ],
+            "image": "1.png",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "title": "Kimchi",
+            "reviews": 114,
+            "price": "28.99",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Butter", "Gochujang", "Garlic", "Ginger", "Sugar"
+            ],
+            "image": "2.png",
+            "category": 1 
+        },
+        {
+            "id": 3,
+            "title": "Gimbap",
+            "reviews": 452,
+            "price": "64.00",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Soy Sauce", "Garlic", "Ginger", "Butter"
+            ],
+            "image": "3.png",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "title": "Soup Gim",
+            "reviews": 133,
+            "price": "61.99",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Garlic", "Ginger", "Butter"
+            ],
+            "image": "4.png",
+            "category": 1 
+        },
+        {
+            "id": 5,
+            "title": "Spicy Chicken",
+            "reviews": 143,
+            "price": "27.99",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Sugar", "Gochujang", "Rice win vingear", "Soy Sauce", "Garlic", "Ginger", "Butter"
+            ],
+            "image": "5.png",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "title": "Beef Noodle Soup",
+            "reviews": 123,
+            "price": "24.99",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Sugar", "Gochujang", "Garlic", "Ginger", "Butter"
+            ],
+            "image": "6.png",
+            "category": 2 
+        },
+        {
+            "id": 7,
+            "title": "Kimchi Jjigae",
+            "reviews": 143,
+            "price": "87.99",
+            "description": "Yangnyeom chicken (Korean: 양념치킨) is a variety of Korean fried chicken seasoned with a sweet and spicy sauce of gochujang, garlic, sugar, and other spices. It is often eaten as anju, food consumed while drinking, in South Korea.",
+            "flavor": [
+                "Sugar", "Gochujang", "Garlic", "Ginger"
+            ],
+            "image": "7.png",
+            "category": 3
+        }
+    ]
+}
